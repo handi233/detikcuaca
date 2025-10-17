@@ -41,3 +41,24 @@ Aplikasi Flutter sederhana untuk melihat prakiraan cuaca berdasarkan nama kota a
 ## Lisensi
 
 Aplikasi ini open source dan bebas digunakan.
+
+## Cara Install
+
+1. **Pastikan sudah install Flutter di komputer kamu**  
+   Ikuti panduan resmi Flutter di [flutter.dev](https://flutter.dev/docs/get-started/install).
+
+2. **Clone repository ini ke komputer kamu**  
+   ```bash
+   git clone https://github.com/handi233/detikcuaca.git
+
+## Masuk Folder Project
+cd detikcuaca
+
+## Install Dependesi
+flutter pub get
+
+## Jalankan Emulator
+flutter run
+
+
+
